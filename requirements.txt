@@ -1,0 +1,10 @@
+torch
+numpy
+matplotlib
+scikit-learn
+wordcloud
+nltk
+beautifulsoup4
+requests
+PyPDF2
+Faker
